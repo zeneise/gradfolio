@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+My job is to build bridges between awesome people and cutting-edge technology. Currently, as a Product Manager for an enterprise web-based Visual-Computing-as-a-Service engineering platform at a German premium automotive OEM. Prior to that, I led various digitalization projects with focus on Augmented, Mixed and Virtual Reality as well as structural simulation and optimization. Visit my [LinkedIn](https://www.linkedin.com/in/nicoschall/){:target="_blank"} profile for a full CV.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I received a Dr.-Ing. (PhD) degree in Mechanical Engineering and Industrial Information Technology from Technical University Berlin and a Dipl.-Ing. degree in Aeronautics and Aerospace from Technical University Munich.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+In my freetime, I enjoy exploring foreign countries, cultures and cuisines, playing basketball and backgammon, and reading a good book – mainly, about technology, natural sciences, business or ancient roman history.
