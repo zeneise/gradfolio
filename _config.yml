@@ -52,12 +52,11 @@ sass:
   style: compressed
 
 include:
-  
+  - _pages
 
 exclude:
   - README.md
   - LICENSE.md
-  - _pages
 
 plugins:
   - jekyll-seo-tag
