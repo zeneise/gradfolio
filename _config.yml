@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Hi, I'm Nicolas.
+title: :wave: Hi, I'm Nicolas.
 description: # subtitle | affiliations | motto
 
 baseurl: /gradfolio #name of GitHub repository
@@ -52,11 +52,12 @@ sass:
   style: compressed
 
 include:
-  - _pages
+  
 
 exclude:
   - README.md
   - LICENSE.md
+  - _pages
 
 plugins:
   - jekyll-seo-tag
