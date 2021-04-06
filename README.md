@@ -1,4 +1,5 @@
 # Gradfolio
+This website was created using [Gradfolio](https://github.com/jitinnair1/gradfolio)
 
 ## Based on
 - [hagura](https://github.com/sharu725/hagura)
